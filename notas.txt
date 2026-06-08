@@ -1,0 +1,4 @@
+pip install playwright
+playwright install # descargar los navegadores chromium, firefox, webkit
+
+https://books.toscrape.com/
